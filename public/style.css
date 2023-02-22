@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(112, 73, 124)
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    border: salmon;
+    background: none;
+}
+
+li {
+    list-style: none;
+}
+
